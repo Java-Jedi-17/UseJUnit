@@ -1,6 +1,7 @@
+package ru.netology.taxes;
+
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
-import ru.netology.taxes.TaxDebit;
 
 public class TaxDebitTests {
 
